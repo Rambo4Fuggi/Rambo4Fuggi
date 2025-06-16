@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Sreenu Baddela, born in Dharmavaram[AndhraPradesh], India, and now living in Banglore<br><br>- 🔭 I’m working as a Cloud & DevOps Engineer with KROLL<br>- 
+<p align="left">I'm Sreenu Baddela, born in Dharmavaram[AndhraPradesh], India, and now living in Banglore<br><br>- 🔭 I’m working as a Cloud & DevOps Engineer at KROLL, Hyderabad<br>- 
   <!--
   📚 I'm currently teaching Kubernetes and everything related to Cloud/DevOps<br>- ⚡ In my free time, I help with The CloudOps Community, create YouTube video tutorials, and mentor Cloud and DevOps aspirants</p>
   -->
